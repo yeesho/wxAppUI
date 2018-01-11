@@ -1,0 +1,23 @@
+{
+  "name": "wxappui",
+  "version": "1.0.0",
+  "description": "wechat app ui components",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoyishou/wxAppUI.git"
+  },
+  "keywords": [
+    "wechatApp",
+    "components"
+  ],
+  "author": "shaoyishou@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaoyishou/wxAppUI/issues"
+  },
+  "homepage": "https://github.com/shaoyishou/wxAppUI#readme"
+}

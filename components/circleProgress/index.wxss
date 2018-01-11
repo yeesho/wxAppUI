@@ -1,0 +1,10 @@
+/* components/circleProgress/index.wxss */
+
+.wx-circle-progress-component {
+
+}
+
+.wx-circle-progress-component .wx-circle {
+  width: 100%;
+  height: 100%;
+}

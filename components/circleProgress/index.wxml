@@ -1,0 +1,7 @@
+<!--components/circleProgress/index.wxml-->
+
+<view class="wx-circle-progress-component" style="width: {{ size + 'px' }}; height: {{ size + 'px' }}">
+  <canvas
+    class="wx-circle"
+    canvas-id="{{ progressId }}"></canvas>
+</view>
