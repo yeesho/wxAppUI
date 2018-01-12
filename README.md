@@ -1,6 +1,8 @@
 # wxAppUI
 wechat app ui components
 
+![demo](demo.gif)
+
 ## 组件列表
 
   - circleProgress
@@ -21,7 +23,6 @@ wechat app ui components
     font-color="#000000"
     font-size="16"></circle-progress>
 ```
-![demo](demo.jpeg)
 
 属性名 | 类型 | 默认值 | 说明
 ---- | ---- | --- | ---

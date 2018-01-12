@@ -50,5 +50,10 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+
+  jumpPage (e) { // 跳转页面
+    const url = e.currentTarget.dataset.url || e.target.dataset.url
+    wx.navigateTo({ url })
   }
 })
